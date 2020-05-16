@@ -1,10 +1,10 @@
 export default {
-  nicknames: ["sompong", "lely", "Sayang", "sompongkuu", "maybeybehhhhhhh"],
+  nicknames: ["rusak", "rusak", "rusak", "rusak", "rusak"],
   greetings: {
-    evening: "Good Evening",
-    afternoon: "Good Afternoon",
-    day: "Good Day",
-    morning: "Good Morning",
-    night: "Good Night"
+    evening: "peteng",
+    afternoon: "peteng",
+    day: "peteng",
+    morning: "peteng",
+    night: "peteng"
   }
 };
