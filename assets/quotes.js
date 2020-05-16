@@ -1,10 +1,10 @@
 // prettier-ignore
 export default [
-    { author: "ABIZARYAN", quotes: "sompong maybeybehhhhhh" },
-    { author: "ABIZARYAN", quotes: "sompong & bidong uuuwwwwuuuuuuu" },
-    { author: "ABIZARYAN", quotes: "Hey! maybeybehhhh uwwwwwwuuuuuuuu" },
-    { author: "ABIZARYAN", quotes: "I love you sompongku." },
-    { author: "ABIZARYAN", quotes: "I may not with you everyday, but I love you everyday sompong." },
-    { author: "ABIZARYAN", quotes: "I love you lely." },
-    { author: "ABIZARYAN", quotes: "I'm sorry for loving you :)." },
+    { author: "ABIZARYAN", quotes: "rusakkkk" },
+    { author: "ABIZARYAN", quotes: "rusak" },
+    { author: "ABIZARYAN", quotes: "afwefw" },
+    { author: "ABIZARYAN", quotes: "asdfsadfasfwfq" },
+    { author: "ABIZARYAN", quotes: "rusak" },
+    { author: "ABIZARYAN", quotes: "rusak" },
+    { author: "ABIZARYAN", quotes: "rusak kabeh goblok" },
 ];
